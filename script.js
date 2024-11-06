@@ -1,8 +1,8 @@
-// Sample teams data with match details
+// Sample team's data with match details
 const teams = [
     {
         name: "Team Gen Z", 
-        logo: "genz.JPG",
+        logo: "https://raw.githubusercontent.com/gmpilot/t10/master/genZ.jpg", // Full URL for image
         matches: [
             { ownRunScore: 102, ownOver: 10, againstTeamRunScore: 103, againstTeamOver: 9.3, wickets: 6 },
             { ownRunScore: 93, ownOver: 10, againstTeamRunScore: 95, againstTeamOver: 5.5, wickets: 4 },
@@ -12,7 +12,7 @@ const teams = [
     },
     {
         name: "Crack Platoon",
-        logo: "crack.JPG",
+        logo: "https://raw.githubusercontent.com/gmpilot/t10/master/crack.jpg", // Full URL for image
         matches: [
             { ownRunScore: 110, ownOver: 8.2, againstTeamRunScore: 109, againstTeamOver: 10, wickets: 3 },
             { ownRunScore: 95, ownOver: 5.5, againstTeamRunScore: 93, againstTeamOver: 10, wickets: 2 },
@@ -22,7 +22,7 @@ const teams = [
     },
     {
         name: "Freedom Fighters",
-        logo: "freedom.PNG",
+        logo: "https://raw.githubusercontent.com/gmpilot/t10/master/freedom.png", // Full URL for image
         matches: [
             { ownRunScore: 103, ownOver: 9.3, againstTeamRunScore: 102, againstTeamOver: 10, wickets: 3 },
         ],
@@ -31,7 +31,7 @@ const teams = [
     },
     {
         name: "Tiger Battalions",
-        logo: "tiger.JPG",
+        logo: "https://raw.githubusercontent.com/gmpilot/t10/master/tiger.jpg", // Full URL for image
         matches: [
             { ownRunScore: 96, ownOver: 9.5, againstTeamRunScore: 92, againstTeamOver: 10, wickets: 4 },
         ],
@@ -40,7 +40,7 @@ const teams = [
     },
     {
         name: "Bangladesh Reborn",
-        logo: "reborn.PNG",
+        logo: "https://raw.githubusercontent.com/gmpilot/t10/master/reborn.png", // Full URL for image
         matches: [
             { ownRunScore: 109, ownOver: 10, againstTeamRunScore: 110, againstTeamOver: 8.2, wickets: 4 },
             { ownRunScore: 92, ownOver: 10, againstTeamRunScore: 96, againstTeamOver: 9.5, wickets: 5 },
@@ -49,6 +49,7 @@ const teams = [
         points: 0
     }
 ];
+
 
 // Function to calculate stats based on matches played
 function calculateStats() {
