@@ -2,7 +2,7 @@
 const teams = [
     {
         name: "Team Gen Z", 
-        logo: "genZ.jpg",
+        logo: "genz.JPG",
         matches: [
             { ownRunScore: 102, ownOver: 10, againstTeamRunScore: 103, againstTeamOver: 9.3, wickets: 6 },
             { ownRunScore: 93, ownOver: 10, againstTeamRunScore: 95, againstTeamOver: 5.5, wickets: 4 },
@@ -12,7 +12,7 @@ const teams = [
     },
     {
         name: "Crack Platoon",
-        logo: "crack.jpg",
+        logo: "crack.JPG",
         matches: [
             { ownRunScore: 110, ownOver: 8.2, againstTeamRunScore: 109, againstTeamOver: 10, wickets: 3 },
             { ownRunScore: 95, ownOver: 5.5, againstTeamRunScore: 93, againstTeamOver: 10, wickets: 2 },
@@ -22,7 +22,7 @@ const teams = [
     },
     {
         name: "Freedom Fighters",
-        logo: "freedom.png",
+        logo: "freedom.PNG",
         matches: [
             { ownRunScore: 103, ownOver: 9.3, againstTeamRunScore: 102, againstTeamOver: 10, wickets: 3 },
         ],
@@ -31,7 +31,7 @@ const teams = [
     },
     {
         name: "Tiger Battalions",
-        logo: "tiger.jpg",
+        logo: "tiger.JPG",
         matches: [
             { ownRunScore: 96, ownOver: 9.5, againstTeamRunScore: 92, againstTeamOver: 10, wickets: 4 },
         ],
@@ -40,7 +40,7 @@ const teams = [
     },
     {
         name: "Bangladesh Reborn",
-        logo: "reborn.png",
+        logo: "reborn.PNG",
         matches: [
             { ownRunScore: 109, ownOver: 10, againstTeamRunScore: 110, againstTeamOver: 8.2, wickets: 4 },
             { ownRunScore: 92, ownOver: 10, againstTeamRunScore: 96, againstTeamOver: 9.5, wickets: 5 },
