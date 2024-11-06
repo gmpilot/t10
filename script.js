@@ -31,7 +31,7 @@ const teams = [
     },
     {
         name: "Tiger Battalions",
-        logo: "https://raw.githubusercontent.com/gmpilot/t10/master/tiger.PNG", // Full URL for image
+        logo: "https://raw.githubusercontent.com/gmpilot/t10/master/tiger.JPG", // Full URL for image
         matches: [
             { ownRunScore: 96, ownOver: 9.5, againstTeamRunScore: 92, againstTeamOver: 10, wickets: 4 },
         ],
