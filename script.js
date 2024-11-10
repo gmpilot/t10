@@ -32,7 +32,7 @@ const teams = [
             { ownRunScore: 127, ownOver: 9.3, againstTeamRunScore: 126, againstTeamOver: 10, wickets: 8 },
                { ownRunScore: 112, ownOver: 10, againstTeamRunScore:95, againstTeamOver: 10, wickets: 6 },
             
-              { ownRunScore: 67,ownOver: 10, againstTeamRunScore: 68,againstTeamOver: 7.1,wickets: 9},
+              { ownRunScore: 67,ownOver: 10, againstTeamRunScore: 68,againstTeamOver: 6.1,wickets: 9},
         ],
         runRate: 0,
         points: 0
@@ -55,7 +55,7 @@ const teams = [
             { ownRunScore: 109, ownOver: 10, againstTeamRunScore: 110, againstTeamOver: 8.2, wickets: 4 },
             { ownRunScore: 92, ownOver: 10, againstTeamRunScore: 96, againstTeamOver: 9.5, wickets: 5 },
             { ownRunScore: 69, ownOver: 10, againstTeamRunScore: 72, againstTeamOver: 10, wickets: 5 },
-              { ownRunScore: 68,ownOver: 7.1, againstTeamRunScore: 67,againstTeamOver: 10, wickets: 1},
+              { ownRunScore: 68,ownOver: 6.1, againstTeamRunScore: 67,againstTeamOver: 10, wickets: 1},
         ],
         runRate: 0,
         points: 0
